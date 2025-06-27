@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduce</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link rel="stylesheet" href="Css/header.css">
+    <link rel="stylesheet" href="Css/footer.css">
+    <link rel="stylesheet" href="Css/contact.css">
+</head>
+    <body>
+    <div class="header">
+        <div class="header-top py-1">
+            <div class="container d-flex justify-content-end align-items-center">
+                <a href="profile.html" class="me-3 text-decoration-none">Guest</a>
+                <a href="#" class="me-2 text-decoration-none">Login</a>
+                <a href="#" class="text-decoration-none">Signup</a>
+            </div>
+        </div>
+        <div class="header-secondary py-3">
+            <div class="container">
+                <div class="row align-items-center">
+                    <!-- Logo -->
+                    <div class="col-4 header-logo d-flex align-items-center">
+                        <a href="#" class="navbar-brand m-0 p-0">
+                            <span class="catclub-logo-text fw-bold" style="font-size:2rem; color:#111; letter-spacing:2px;">CAT CLUB</span>
+                        </a>
+                    </div>
+                    <!-- Menu -->
+                    <div class="col-8 header-menu">
+                        <nav class="navbar navbar-expand">
+                            <ul class="navbar-nav ms-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link active" href="index.html">Trang chủ</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="service.html">Dịch vụ</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="introduce.html">Giới thiệu</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="contact.html">Liên hệ</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <main>
+        <div class="container my-5">
+            <h2 class="mb-4 text-center">Liên hệ với chúng tôi</h2>
+            <div class="mb-4 text-center">
+                <p><strong>Gmail:</strong> none</p>
+                <p><strong>Discord:</strong> hungrycat_</p>
+            </div>
+            <form>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Họ và tên</label>
+                    <input type="text" class="form-control" id="name" placeholder="Nhập họ và tên của bạn">
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="email" placeholder="Nhập email của bạn">
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Nội dung</label>
+                    <textarea class="form-control" id="message" rows="4" placeholder="Nhập nội dung liên hệ"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Gửi liên hệ</button>
+            </form>
+        </div>
+    </main>
+
+    <footer class="py-3 text-center">
+        Cat Club &copy; 2024 - Dịch vụ hỗ trợ game Albion Online
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    <script src="Js/header.js"></script>
+</body>
+</html>

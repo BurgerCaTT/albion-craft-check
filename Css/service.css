@@ -1,0 +1,96 @@
+/* Hiệu ứng bóng cho tiêu đề */
+.text-shadow {
+    text-shadow: 1px 2px 8px rgba(0,0,0,0.12);
+}
+
+/* Nút chính */
+.btn-main {
+    background: #ffb300;
+    color: #222;
+    font-weight: 600;
+    border: none;
+    border-radius: 2rem;
+    padding: 0.75rem 2rem;
+    transition: background 0.2s;
+}
+.btn-main:hover, .btn-main:focus {
+    background: #ff9800;
+    color: #fff;
+}
+
+/* Card dịch vụ */
+.service-card {
+    border: 1px solid #ffe082;
+    border-radius: 1rem;
+    box-shadow: 0 2px 12px 0 rgba(255, 193, 7, 0.08);
+    transition: transform 0.15s;
+}
+.service-card:hover {
+    transform: translateY(-6px) scale(1.03);
+    box-shadow: 0 6px 24px 0 rgba(255, 193, 7, 0.16);
+}
+.service-card .card-title {
+    color: #ff9800;
+    font-weight: bold;
+}
+.service-card .card-text {
+    color: #444;
+    font-size: 1rem;
+    text-align: left;
+    padding: 0 0.5rem;
+    line-height: 1.6;
+}
+.service-card .card-footer {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: transparent;
+    border: 0;
+}
+.service-card .btn-main.mt-2 {
+    margin-top: 0.7rem !important;
+    min-width: 120px;
+    font-size: 1rem;
+    padding: 0.5rem 1.5rem;
+}
+.service-card .badge {
+    margin-right: 0.3rem;
+    margin-bottom: 0.2rem;
+    font-size: 0.95em;
+    padding: 0.5em 1em;
+    border-radius: 1rem;
+    box-shadow: 0 1px 4px #0001;
+}
+.service-card .badge.bg-warning {
+    background: #ffe082 !important;
+    color: #b88600 !important;
+}
+.service-card .badge.bg-info {
+    background: #b3e5fc !important;
+    color: #0277bd !important;
+}
+.service-card .badge.bg-success {
+    background: #c8e6c9 !important;
+    color: #388e3c !important;
+}
+.service-card .badge.bg-primary {
+    background: #bbdefb !important;
+    color: #1565c0 !important;
+}
+.service-card .badge.bg-secondary {
+    background: #e0e0e0 !important;
+    color: #333 !important;
+}
+
+/* Responsive hình ảnh */
+@media (max-width: 767px) {
+    .service-card {
+        margin-bottom: 1.5rem;
+    }
+    .service-card .card-text {
+        padding: 0 0.2rem;
+        font-size: 0.98rem;
+    }
+}

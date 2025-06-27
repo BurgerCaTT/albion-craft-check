@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link rel="stylesheet" href="Css/header.css">
+    <link rel="stylesheet" href="Css/footer.css">
+    <link rel="stylesheet" href="Css/profile.css">
+</head>
+<body>
+    <div class="header">
+        <div class="header-top py-1">
+            <div class="container d-flex justify-content-end align-items-center">
+                <a href="profile.html" class="me-3 text-decoration-none">Guest</a>
+                <a href="#" class="me-2 text-decoration-none">Login</a>
+                <a href="#" class="text-decoration-none">Signup</a>
+            </div>
+        </div>
+        <div class="header-secondary py-3">
+            <div class="container">
+                <div class="row align-items-center">
+                    <!-- Logo -->
+                    <div class="col-4 header-logo d-flex align-items-center">
+                        <a href="#" class="navbar-brand m-0 p-0">
+                            <span class="catclub-logo-text fw-bold" style="font-size:2rem; color:#111; letter-spacing:2px;">CAT CLUB</span>
+                        </a>
+                    </div>
+                    <!-- Menu -->
+                    <div class="col-8 header-menu">
+                        <nav class="navbar navbar-expand">
+                            <ul class="navbar-nav ms-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link active" href="index.html">Trang chủ</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="service.html">Dịch vụ</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="introduce.html">Giới thiệu</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="contact.html">Liên hệ</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <main class="container py-5">
+        <div class="row justify-content-center">
+            <!-- Bên trái: Avatar & thông tin cơ bản -->
+            <div class="col-md-4 mb-4 mb-md-0">
+                <div class="profile-card shadow rounded-4 p-4 bg-white text-center">
+                    <div class="profile-avatar mx-auto mb-3">
+                        <img src="https://ui-avatars.com/api/?name=Guest&background=ffb300&color=222&size=128" alt="Avatar" class="rounded-circle border border-3 border-warning" width="110" height="110">
+                    </div>
+                    <h3 class="profile-name mb-1">Guest</h3>
+                    <div class="profile-role mb-3 text-muted">Thành viên</div>
+                    <div class="profile-info text-start mx-auto mb-3" style="max-width:340px;">
+                        <div class="mb-2"><b>Email:</b> guest@email.com</div>
+                        <div class="mb-2"><b>Ngày tham gia:</b> 01/01/2024</div>
+                        <div class="mb-2"><b>Trạng thái:</b> <span class="badge bg-success">Hoạt động</span></div>
+                    </div>
+                    <a href="#" class="btn btn-main px-4">Chỉnh sửa hồ sơ</a>
+                </div>
+            </div>
+            <!-- Bên phải: Dịch vụ đã đăng ký & số dư -->
+            <div class="col-md-8">
+                <div class="profile-card shadow rounded-4 p-4 bg-white mb-4">
+                    <h4 class="mb-3 text-start">Số dư tài khoản</h4>
+                    <div class="balance-box d-flex align-items-center mb-3">
+                        <span class="balance-amount me-3">0 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="coin" width="22" height="22" style="margin-bottom:3px"></span>
+                        <a href="#" class="btn btn-outline-warning btn-sm">Nạp tiền</a>
+                    </div>
+                    <div class="text-muted" style="font-size:0.97rem;">Số dư dùng để thanh toán các dịch vụ nâng cao.</div>
+                </div>
+                <!-- 2 card truy cập dịch vụ đặt ở giữa số dư và dịch vụ đã đăng ký -->
+                <div class="row mb-4">
+                    <!-- Card: Tính giá craft -->
+                    <div class="col-md-6 mb-3">
+                        <div class="card h-100 shadow rounded-4 text-center">
+                            <div class="card-body py-4">
+                                <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Craft" width="48" height="48" class="mb-2">
+                                <h5 class="card-title mb-2">Tính giá craft</h5>
+                                <p class="card-text mb-3" style="font-size:0.97rem;">Công cụ tính lời/lỗ khi craft vật phẩm.</p>
+                                <a href="craft-check.html" class="btn btn-main btn-sm">Truy cập</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card: Loot log -->
+                    <div class="col-md-6 mb-3">
+                        <div class="card h-100 shadow rounded-4 text-center">
+                            <div class="card-body py-4">
+                                <img src="https://cdn-icons-png.flaticon.com/512/1828/1828817.png" alt="Loot log" width="48" height="48" class="mb-2">
+                                <h5 class="card-title mb-2">Loot log</h5>
+                                <p class="card-text mb-3" style="font-size:0.97rem;">Kiểm tra lịch sử loot log của bạn.</p>
+                                <a href="service.html" class="btn btn-main btn-sm">Truy cập</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="profile-card shadow rounded-4 p-4 bg-white">
+                    <h4 class="mb-3 text-start">Dịch vụ đã đăng ký</h4>
+                    <ul class="list-group mb-3">
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            Tính giá craft lời/lỗ
+                            <span class="badge bg-success">Miễn phí</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            Check loot log
+                            <span class="badge bg-warning text-dark">Dùng thử</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            Tư vấn & hỗ trợ
+                            <span class="badge bg-success">Miễn phí</span>
+                        </li>
+                    </ul>
+                    <div class="text-end">
+                        <a href="#" class="btn btn-main btn-sm">Đăng ký thêm dịch vụ</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="py-3 text-center">
+        Cat Club &copy; 2024 - Dịch vụ hỗ trợ game Albion Online
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    <script src="Js/header.js"></script>
+</body>
+</html>

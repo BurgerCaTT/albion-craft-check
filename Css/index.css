@@ -47,8 +47,8 @@ main {
 
 .card-img-top {
     border-radius: 14px 14px 0 0;
-    object-fit: cover;
-    height: 120px;
+    object-fit: fill;
+    height: 280px;
     background: #f3f3f3;
 }
 
@@ -67,14 +67,6 @@ main {
 .btn-main:hover {
     background: #444;
     color: #fff;
-}
-
-footer {
-    font-size: 14px;
-    color: #888;
-    background: #f7f7f9;
-    border-top: 1px solid #e5e5e5;
-    letter-spacing: 0.5px;
 }
 
 .text-shadow {

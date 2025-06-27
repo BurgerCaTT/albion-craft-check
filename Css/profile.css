@@ -1,0 +1,124 @@
+.profile-card {
+    background: #fff;
+    border-radius: 1.5rem;
+    box-shadow: 0 4px 24px 0 rgba(255,193,7,0.08);
+    padding: 2rem 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    transition: box-shadow 0.2s;
+}
+.profile-card:hover {
+    box-shadow: 0 8px 32px 0 rgba(255,193,7,0.16);
+}
+.profile-avatar img {
+    box-shadow: 0 2px 12px #ffb30033;
+    background: #fff;
+}
+.profile-name {
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: #222;
+}
+.profile-role {
+    font-size: 1.1rem;
+    color: #888;
+    font-weight: 500;
+}
+.profile-info {
+    font-size: 1rem;
+    color: #444;
+    background: #fffbe7;
+    border-radius: 1rem;
+    padding: 1rem 1.2rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 1px 4px #ffe08255;
+}
+.btn-main {
+    background: #ffb300;
+    color: #222;
+    font-weight: 600;
+    border: none;
+    border-radius: 2rem;
+    padding: 0.6rem 2rem;
+    transition: background 0.2s;
+}
+.btn-main:hover, .btn-main:focus {
+    background: #ff9800;
+    color: #fff;
+}
+.balance-box {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #ff9800;
+    background: #fffbe7;
+    border-radius: 1rem;
+    padding: 0.7rem 1.2rem;
+    margin-bottom: 0.5rem;
+    display: inline-flex;
+    align-items: center;
+}
+.balance-amount {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ff9800;
+    display: flex;
+    align-items: center;
+}
+.profile-card .btn-outline-warning {
+    border-radius: 2rem;
+    font-weight: 500;
+    border-width: 2px;
+    color: #ff9800;
+    border-color: #ffb300;
+    transition: background 0.2s, color 0.2s;
+}
+.profile-card .btn-outline-warning:hover {
+    background: #ffb300;
+    color: #fff;
+}
+.profile-card .list-group-item {
+    border: none;
+    border-radius: 0.7rem;
+    margin-bottom: 0.3rem;
+    background: #fffbe7;
+    font-size: 1.07rem;
+    font-weight: 500;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.profile-card .badge.bg-success {
+    background: #c8e6c9 !important;
+    color: #388e3c !important;
+}
+.profile-card .badge.bg-warning {
+    background: #ffe082 !important;
+    color: #b88600 !important;
+}
+.profile-card .btn-main.btn-sm {
+    padding: 0.45rem 1.3rem;
+    font-size: 1rem;
+    border-radius: 2rem;
+    margin-top: 0.2rem;
+}
+
+/* Shadow effect for quick access cards: luôn có shadow rõ nét */
+.card.h-100.shadow-sm {
+    box-shadow: 0 8px 32px 0 rgba(255,193,7,0.28);
+    transition: box-shadow 0.2s;
+}
+
+/* Responsive: dồn về 1 cột trên mobile */
+@media (max-width: 767px) {
+    .profile-card {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .balance-box {
+        font-size: 1.1rem;
+        padding: 0.6rem 0.7rem;
+    }
+}
+    
+
