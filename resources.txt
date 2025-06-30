@@ -1,0 +1,12 @@
+[
+  {
+    "resources": {
+        "T8.2 Metal Bar": { "tier": 8, "type": "metal", "value": 1234 },
+        "T8.2 Plank": { "tier": 8, "type": "wood", "value": 890 }
+    },
+    "artifacts": {
+        "T8.2 Artifact Armor": { "tier": 8, "type": "artifact", "value": 99999 },
+        "T6.3 Artifact Weapon": { "tier": 6, "type": "artifact", "value": 56789 }
+    }
+  }
+]

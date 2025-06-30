@@ -1,0 +1,4002 @@
+[
+  {
+    "name": "Scholar Robe",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T4.0 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T4.0 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T4.0 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T4.0 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T4.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T4.0 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T4.0 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T4.0 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T4.0 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T4.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T4.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T4.1 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T4.1 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T4.1 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T4.1 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T4.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T4.1 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T4.1 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T4.1 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T4.1 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T4.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T4.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T4.2 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T4.2 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T4.2 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T4.2 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T4.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T4.2 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T4.2 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T4.2 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T4.2 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T4.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T4.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T4.3 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T4.3 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T4.3 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T4.3 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T4.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T4.3 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T4.3 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T4.3 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T4.3 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T4.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T4.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T4.4 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T4.4 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T4.4 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T4.4 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T4.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T4.4 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T4.4 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T4.4 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T4.4 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T4.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T4.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T5.0 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T5.0 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T5.0 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T5.0 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T5.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T5.0 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T5.0 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T5.0 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T5.0 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T5.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T5.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T5.1 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T5.1 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T5.1 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T5.1 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T5.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T5.1 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T5.1 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T5.1 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T5.1 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T5.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T5.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T5.2 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T5.2 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T5.2 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T5.2 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T5.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T5.2 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T5.2 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T5.2 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T5.2 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T5.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T5.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T5.3 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T5.3 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T5.3 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T5.3 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T5.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T5.3 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T5.3 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T5.3 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T5.3 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T5.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T5.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T5.4 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T5.4 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T5.4 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T5.4 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T5.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T5.4 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T5.4 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T5.4 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T5.4 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T5.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T5.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T6.0 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T6.0 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T6.0 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T6.0 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T6.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T6.0 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T6.0 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T6.0 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T6.0 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T6.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T6.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T6.1 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T6.1 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T6.1 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T6.1 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T6.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T6.1 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T6.1 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T6.1 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T6.1 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T6.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T6.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T6.2 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T6.2 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T6.2 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T6.2 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T6.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T6.2 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T6.2 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T6.2 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T6.2 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T6.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T6.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T6.3 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T6.3 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T6.3 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T6.3 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T6.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T6.3 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T6.3 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T6.3 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T6.3 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T6.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T6.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T6.4 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T6.4 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T6.4 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T6.4 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T6.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T6.4 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T6.4 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T6.4 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T6.4 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T6.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T6.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T7.0 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T7.0 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T7.0 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T7.0 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T7.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T7.0 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T7.0 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T7.0 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T7.0 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T7.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T7.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T7.1 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T7.1 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T7.1 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T7.1 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T7.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T7.1 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T7.1 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T7.1 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T7.1 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T7.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T7.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T7.2 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T7.2 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T7.2 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T7.2 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T7.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T7.2 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T7.2 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T7.2 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T7.2 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T7.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T7.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T7.3 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T7.3 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T7.3 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T7.3 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T7.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T7.3 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T7.3 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T7.3 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T7.3 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T7.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T7.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T7.4 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T7.4 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T7.4 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T7.4 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T7.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T7.4 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T7.4 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T7.4 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T7.4 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T7.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T7.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T8.0 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T8.0 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T8.0 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T8.0 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T8.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T8.0 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T8.0 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T8.0 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T8.0 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T8.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T8.0 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T8.1 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T8.1 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T8.1 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T8.1 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T8.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T8.1 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T8.1 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T8.1 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T8.1 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T8.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T8.1 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T8.2 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T8.2 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T8.2 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T8.2 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T8.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T8.2 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T8.2 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T8.2 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T8.2 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T8.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T8.2 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T8.3 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T8.3 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T8.3 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T8.3 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T8.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T8.3 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T8.3 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T8.3 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T8.3 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T8.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T8.3 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Assassin Jacket",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T8.4 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Hunter Jacket",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Leather Armor",
+    "materials": [
+      {
+        "item": "T8.4 Leather",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Guardian Armor",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Plate Armor",
+    "materials": [
+      {
+        "item": "T8.4 Metal Bar",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Claymore",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Sword",
+    "materials": [
+      {
+        "item": "T8.4 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T8.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Bow",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Bow",
+    "materials": [
+      {
+        "item": "T8.4 Plank",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Nature Staff",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Nature Staff",
+    "materials": [
+      {
+        "item": "T8.4 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Fire Staff",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Fire Staff",
+    "materials": [
+      {
+        "item": "T8.4 Plank",
+        "quantity": 16
+      },
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Great Axe",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Axe",
+    "materials": [
+      {
+        "item": "T8.4 Metal Bar",
+        "quantity": 16
+      },
+      {
+        "item": "T8.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T8.4 Plank",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Tome of Spells",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Off-hand",
+    "materials": [
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 8
+      }
+    ]
+  }
+]

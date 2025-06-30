@@ -1,0 +1,3327 @@
+[
+  {
+    "name": "Scholar Robe",
+    "tier": 2,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T2.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 3,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T3.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Scholar Robe",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Cleric Robe",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Mage Robe",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Druid Robe",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Druidic Feathers",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fiend Robe",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Infernal Cloth Folds",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cultist Robe",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Alluring Amulet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Feyscale Robe",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Fey Dorsal Wing",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T4 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T5 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T6 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T7 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.0 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.1 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.2 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.3 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Robe of Purity",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.4 Cloth",
+        "quantity": 16
+      },
+      {
+        "item": "T8 Sanctified Belt",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 4,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.0 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T4 Royal Sigil",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 4,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.1 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T4 Royal Sigil",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 4,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.2 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T4 Royal Sigil",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 4,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.3 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T4 Royal Sigil",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 4,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T4.4 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T4 Royal Sigil",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 5,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.0 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T5 Royal Sigil",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 5,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.1 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T5 Royal Sigil",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 5,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.2 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T5 Royal Sigil",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 5,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.3 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T5 Royal Sigil",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 5,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T5.4 Scholar Robe",
+        "quantity": 8
+      },
+      {
+        "item": "T5 Royal Sigil",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 6,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.0 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T6 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 6,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.1 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T6 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 6,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.2 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T6 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 6,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.3 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T6 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 6,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T6.4 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T6 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 7,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.0 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T7 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 7,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.1 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T7 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 7,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.2 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T7 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 7,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.3 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T7 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 7,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T7.4 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T7 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 8,
+    "subtier": 0,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.0 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T8 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 8,
+    "subtier": 1,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.1 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T8 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 8,
+    "subtier": 2,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.2 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T8 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 8,
+    "subtier": 3,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.3 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T8 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "name": "Royal Robe",
+    "tier": 8,
+    "subtier": 4,
+    "type": "Cloth Armor",
+    "materials": [
+      {
+        "item": "T8.4 Scholar Robe",
+        "quantity": 1
+      },
+      {
+        "item": "T8 Royal Sigil",
+        "quantity": 16
+      }
+    ]
+  }
+  
+]
