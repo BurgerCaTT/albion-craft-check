@@ -1,7 +1,7 @@
 [
   {
     "resources": {
-        "T8.2 Metal Bar": { "tier": 8, "type": "metal"},
+        "T8 Metal Bar": { "tier": 8, "type": "metal"},
         "T8.2 Plank": { "tier": 8, "type": "wood"}
     },
     "artifacts": {
